@@ -1,0 +1,35 @@
+{
+  "name": "stackOverflowLite-backEnd",
+  "version": "1.0.0",
+  "description": "The BackEnd of A StackOverflow Lite Application developed Using NodeJs, ExpressJs, and PostgreSql",
+  "main": "index.js",
+  "scripts": {
+    "test-init": "./node_modules/jasmine/bin/jasmine.js init",
+    "test": "./node_modules/jasmine/bin/jasmine.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyewoas/stackOverflowLite-backEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyewoas/stackOverflowLite-backEnd/issues"
+  },
+  "homepage": "https://github.com/oyewoas/stackOverflowLite-backEnd#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-promise-router": "^3.0.3",
+    "pg": "^7.4.3",
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.16.2",
+    "request": "^2.88.0",
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "jasmine": "^3.2.0",
+    "nodemon": "^1.18.4"
+  }
+}
