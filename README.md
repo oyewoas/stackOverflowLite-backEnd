@@ -1,2 +1,2 @@
 # stackOverflowLite-backEnd
-The BackEnd of A StackOverflow Lite Application Using NodeJs, ExpressJs, and PostgreSql 
+The BackEnd of A StackOverflow Lite Application developed Using NodeJs, ExpressJs, and PostgreSql 
